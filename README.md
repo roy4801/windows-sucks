@@ -8,6 +8,17 @@
 
 ## 實用工具
 
+### [PowerToys](https://github.com/microsoft/PowerToys/)
+
+- 工具包
+	- [Color Picker](https://github.com/microsoft/PowerToys/wiki/ColorPicker-Overview)
+		- 選色小工具
+	- [FancyZones](https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview)
+		- 管理視窗 Layout
+	- [PowerToys Run](https://github.com/microsoft/PowerToys/wiki/PowerToys-Run-Overview)
+		- 像 Alfred 那樣
+	- 還有各種功能...
+
 ### [Wox](http://www.wox.one/)
 
 - 把 Spotlight 帶到 Windows 上！
